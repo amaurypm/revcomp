@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 ## Convert lines of DNA sequences into their reverse-complement counterpart.
 ##
-## This script will process line per line of DNA sequences in  no given format and will output
+## This script will process line per line of DNA sequences in no given format and will output
 ## the corresponding reverse-complement sequences.
 ## Each line is considered a different sequence.
 ##
